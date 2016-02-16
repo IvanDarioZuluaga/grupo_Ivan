@@ -9,4 +9,5 @@ int main()
         printf("%d \n",i+1);
     }
     return 0;
+    int x=5+5;
 }
